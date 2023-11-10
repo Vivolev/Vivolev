@@ -1,1 +1,1 @@
-Hi, i write code, mostly in python
+hey! i'm a trans programmer who primarily uses python.
